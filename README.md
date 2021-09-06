@@ -33,3 +33,5 @@ With this notebook we will go through 5 different dataset to see how is India is
 - Plotly
 
   
+## Note
+###### As the plots were done completely with the Plotly package please paste the link to this GitHub notebook into http://nbviewer.jupyter.org/, which will present a rich view of the notebook.
