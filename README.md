@@ -18,12 +18,22 @@ For the Indian health system, one of the most burdened in the world, this could 
 
 With this notebook we will go through 5 different dataset to see how is India is fighting against this deadly virus.
 
-- COVID-19 cases count statewise.
-- COVID-19 testing count.
-- COVID-19 test centers .
-- Hospitals and Bed availability data as on 2018.
-- Vaccination data .
+- COVID-19 cases count statewise. 
+With this dataset we will have the info about daily number of cases statewise with which we will see how the case load is there statewise and overall how India in total is battling this virus. We will also try to see how the lockdown impacted the spread of virus.
 
+- COVID-19 testing count.
+With this dataset we will get brief overview of how the testing is being done statewise and how each state is performing . As India is 2nd most populous country in world it is a very important dataset to look upon as we will get idea how much poeple are actually are getting tested. 
+
+- COVID-19 test centers .
+This data was available from ICMR to get to know how the testing centers are distributed in the country and what type of testing are being done.
+
+- Hospitals and Bed availability data as on 2018.
+This is an old data (2018) as getting the up-to-date data is difficult to get , but with this we will have some rough idea of how hospitals are distributed and how many beds are available in both rural and urban areas (government) across the country.  
+
+- Vaccination data .
+This is most crucial data which we are looking upon we will get to know how much people are getting vaccinated and how what type of vaccine is taken , more the number of vaccines administered , less the effect of virus will have thus saving lots of life.
+
+This is a long battle against a deadly virus which can be won together, until then we have to mask up , manintain social distancing and get vaccinated :syringe: 
 
 ## 🛠 Libraries worked upon
 - Numpy
